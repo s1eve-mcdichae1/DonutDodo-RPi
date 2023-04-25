@@ -1,0 +1,17 @@
+Donut Dodo - RetroPie SCRIPTMODULE Edition
+
+I developed a native RetroPie scriptmodule to further streamline and assist with installation. Benefits including automatically enable the "Ports" system on installation, and will launch using runcommand.sh enabling runcommand options such as launch menu art.
+
+Installation instructions:
+
+0) [dev - I didn't want to redistribute the game files w/o permission. Navigate to the gamedata directory and place the real DD game files. You can delete the placeholder files that are there.]
+
+1) run "./install-dd.sh" - this places the scriptmodule in your RetroPie-Setup/ext directory and then installs it with the Setup script.
+
+2) to un-install, use "./install-dd.sh --remove" or "-r".
+
+3) restart EmulationStation to refresh the gamelist
+
+4) Donut Dodo should now be in the Ports section of RetroPie
+
+5) no metadata by default. Follows traditional RetroPie practice of giving the launch script a descriptive name for the menu ("Donut Dodo - Classic Arcade Action"). Includes "skyscraper/import" directory for optional scraping metadata (screenshot, text, and "definitions.dat" to read the text.) Copy "skyscraper/import" to your local "~/.skyscraper" folder ("/opt/retropie/configs/all/skyscraper"), then scrape local "import" resource.

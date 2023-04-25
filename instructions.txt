@@ -1,0 +1,35 @@
+Donut Dodo - RetroPie Edition
+
+The game is a native RetroPie Port and should be compatible with Raspberry Pi models 3B, 4A, 4B and 400.
+It might work on other models, but that is still TBC.
+
+Game instructions:
+This is a lightweight and highly optimized native port of the game in its purest form, made for arcade enthusiasts.
+As such, in order to create an authentic arcade experience, the main menu has been removed.
+
+Access the Options Menu (from the Start Screen):
+- press "O" for Options on the keyboard
+- press "Home" or "L2" on a controller
+
+Exit the game (from the Start Screen):
+- press "Escape" on the keyboard for 1 second
+- press "Cancel" on the controller for 1 second (the B button on an Xbox controller)
+
+Add a credit (from the Start Screen):
+- "5" on the keyboard
+- "Select" on the controller
+
+Start game (from the mode selection screen):
+- "1" on the keyboard
+- "Start" on the controller
+
+Player movement:
+- Arrow keys on the keyboard for movement, and "Space" to jump
+- Dpad on the controller for movement, and "A" (on an Xbox controller) to jump
+
+
+Known issues:
+- Audio can sometimes crack or pop in bluetooth mode
+
+Further notes:
+- I will be adding visual assets in the future so that players can create their own bezels and/or marquees

@@ -1,0 +1,7 @@
+Title      : Donut Dodo
+Description: A classic 1983 style arcade game.
+Developer  : pixel games
+Publisher  : pixel games
+Players    : 1
+Genre      : Arcade
+Date       : 2023
